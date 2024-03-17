@@ -1,3 +1,3 @@
 # BGGL-Net
-Boundary-Guided Global-Local feature fusion Network for small polyp segmentation
+# Boundary-Guided Global-Local feature fusion Network for small polyp segmentation
 The code will come later........
